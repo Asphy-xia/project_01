@@ -13,4 +13,4 @@ hello git! hello xinqing!
 hello git! hello xinqing!
 hello git! hello xinqing!
 hello git! hello xinqing! master test
-hello git! hello xinqing!
+hello git! hello xinqing! hot-fix test
